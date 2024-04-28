@@ -6,3 +6,7 @@ Hand capture kit
 The modeling related to the capture kit has been completed
 Incomplete circuit diagram and programming design
 Expected to complete the development of the entire hand capture kit within May
+quote 
+https://github.com/LucidVR/lucidgloves
+引用
+https://github.com/LucidVR/lucidgloves
